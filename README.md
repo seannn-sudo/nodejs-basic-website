@@ -3,10 +3,13 @@ This repository contains a simple Node.js server script that serves static files
 File Structure
 The server expects the following file structure in its directory:
 
-404.html: Custom 404 error page.
-about.html: About page.
-contact.html: Contact page.
-index.html: Default landing page.
-script.js: JavaScript file.
-styles.css: CSS styles file.
-modern-normalize.css: Modern normalize CSS file.
+<ol>
+<li>404.html: Custom 404 error page.</li>
+<li>about.html: About page.</li>
+<li>contact.html: Contact page.</li>
+<li>index.html: Default landing page.</li>
+<li>script.js: JavaScript file.</li>
+<li>styles.css: CSS styles file.</li>
+<li>modern-normalize.css: Modern normalize CSS file.</li>
+</ol>
+
